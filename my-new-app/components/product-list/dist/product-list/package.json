@@ -1,0 +1,32 @@
+{
+  "name": "@bit/jaykv95.angular-tutorial.product-list",
+  "version": "0.0.1",
+  "homepage": "https://bit.dev/jaykv95/angular-tutorial/product-list",
+  "main": "bundles/bit-jaykv95.angular-tutorial.product-list.umd.js",
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "devDependencies": {
+    "@angular/common": "^8.0.0",
+    "@angular/core": "^8.0.0"
+  },
+  "peerDependencies": {
+    "@angular/common": "^8.0.0",
+    "@angular/core": "^8.0.0"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/angular@0.2.0"
+    }
+  },
+  "es2015": "fesm2015/bit-jaykv95.angular-tutorial.product-list.js",
+  "esm5": "esm5/bit-jaykv95.angular-tutorial.product-list.js",
+  "esm2015": "esm2015/bit-jaykv95.angular-tutorial.product-list.js",
+  "fesm5": "fesm5/bit-jaykv95.angular-tutorial.product-list.js",
+  "fesm2015": "fesm2015/bit-jaykv95.angular-tutorial.product-list.js",
+  "module": "fesm5/bit-jaykv95.angular-tutorial.product-list.js",
+  "typings": "bit-jaykv95.angular-tutorial.product-list.d.ts",
+  "metadata": "bit-jaykv95.angular-tutorial.product-list.metadata.json",
+  "sideEffects": false
+}

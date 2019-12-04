@@ -1,0 +1,26 @@
+[
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "compilers/angular"
+    },
+    "isSymlink": false,
+    "hash": "ff9bc2ee2e58fda705df24b3be15badf367346ef"
+  },
+  {
+    "id": {
+      "scope": "jaykv95.angular-tutorial",
+      "name": "product-list"
+    },
+    "isSymlink": true,
+    "hash": "09c502d1fd6f2c092e6b85aef61283deed032e2e"
+  },
+  {
+    "id": {
+      "scope": "jaykv95.angular-tutorial",
+      "name": "product-list"
+    },
+    "isSymlink": false,
+    "hash": "854113136ee75cb8232dff4f1eb4bcd2a597c242"
+  }
+]

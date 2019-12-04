@@ -1,0 +1,25 @@
+{
+  "name": "@bit/jaykv95.angular-tutorial.product-list",
+  "version": "0.0.2",
+  "homepage": "https://bit.dev/jaykv95/angular-tutorial/product-list",
+  "main": "dist/product-list/bundles/bit-jaykv95.angular-tutorial.product-list.umd.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "@angular/common": "^8.0.0",
+    "@angular/core": "^8.0.0"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/angular@0.2.0"
+    }
+  },
+  "es2015": "dist\\product-list\\fesm2015\\bit-jaykv95.angular-tutorial.product-list.js",
+  "esm5": "dist\\product-list\\esm5\\bit-jaykv95.angular-tutorial.product-list.js",
+  "esm2015": "dist\\product-list\\esm2015\\bit-jaykv95.angular-tutorial.product-list.js",
+  "fesm5": "dist\\product-list\\fesm5\\bit-jaykv95.angular-tutorial.product-list.js",
+  "fesm2015": "dist\\product-list\\fesm2015\\bit-jaykv95.angular-tutorial.product-list.js",
+  "module": "dist\\product-list\\fesm5\\bit-jaykv95.angular-tutorial.product-list.js",
+  "typings": "dist\\product-list\\bit-jaykv95.angular-tutorial.product-list.d.ts"
+}
